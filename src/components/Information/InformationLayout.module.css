@@ -1,0 +1,9 @@
+.info {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin: 10px 0;
+}
+
+.info span {
+  color: hsl(220, 70%, 50%);
+}
