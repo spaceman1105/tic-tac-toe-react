@@ -13,5 +13,6 @@ export default defineConfig(({ mode }) => {
         },
       }),
     ],
+    base: "/tic-tac-toe-react/",
   }
 })
